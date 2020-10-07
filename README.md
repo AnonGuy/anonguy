@@ -5,7 +5,7 @@
 [<img align="left" alt="My Dotfiles" width="32px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.10.0/icons/vim.svg" />][dotfiles]
 
 [codewars]: https://www.codewars.com/users/AnonGuy
-[github-gist]: https://gist.github.com/anonguy
+[github-gist]: https://gist.github.com/jerbob
 [discord]: https://discordapp.com/users/140605665772175361
-[dotfiles]: https://github.com/anonguy/dotfiles
+[dotfiles]: https://github.com/jerbob/dotfiles
 [linkedin]: https://www.linkedin.com/in/jerbob/
